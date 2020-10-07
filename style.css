@@ -1,0 +1,60 @@
+.ui.borderless.topmenu.menu {
+  background-color: rgb(9, 29, 86);
+  opacity: 50%;
+  box-shadow: none;
+  padding: 0px 10px 0px 10px;
+  color: white;
+}
+
+.ui.simple.dropdown.item {
+  color: white;
+}
+
+.servco.background {
+  background: url('https://4186an1xwpbr44lko39f797k-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/ServcoPacific2.jpg');
+  background-size: cover;
+  height: 604.8px;
+  color: white;
+}
+
+.ui.center.aligned.grid.container {
+  padding-top: 270px;
+}
+
+.ui.corona.notice {
+  background-color: rgb(215, 215, 215);
+  height: 125px;
+  color: #1f5b83;
+  font-size: 1.5em;
+  padding-top: 1.25em;
+  padding-bottom: 1.25em;
+}
+
+.ui.learnmore.big.button {
+  background-color: rgb(0, 117, 186);
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin: 0px 10px 0px 10px;
+}
+
+.news.section {
+  background: url("https://www.servco.com/wp-content/themes/Servco/images/wave-pattern.png");
+  height:  569.83333px;
+  background-size: cover;
+  color: #3155a6;
+}
+
+.footer.background {
+  background-color: rgb(49, 85, 166);
+  height: 250px;
+  color: white;
+  padding-top: 20px;
+}
+
+.ui.borderless.bottommenu.container.menu {
+  background-color: rgb(49, 85, 166);
+  box-shadow: none;
+  color: white;
+  font-size: 12px;
+}
